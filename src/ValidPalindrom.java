@@ -8,7 +8,12 @@ razie zwróć false.
 PRZYKŁAD:
 s = "aba" -> true
 s = "abca" -> true: bo "ab|c|a"
- */
+
+WSKAZÓWKI:
+1. Proszę się zastanowić, co należy zrobić, żeby przy sprawdzaniu
+odpowiednich znaków, sprawdzić również możliwość usunięcia jednego.
+
+*/
 
 
 public class ValidPalindrom {}

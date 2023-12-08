@@ -12,6 +12,10 @@ UWAGA: String "abc" powtórzony 0 razem daje "", 1 raz daje
 PRZYKŁAD:
 a = "abcd"; b = "cdabcdab"; result = 3
 bo: "ab|cdabcdab|cd"
+
+WSKAZÓWKI:
+1. Proszę się zastanowić, jaka powinna jest maksymalna liczba powtórzeń
+po której jesteśmy w stanie rozstrzygnąć problem.
 * */
 
 
